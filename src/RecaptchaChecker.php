@@ -6,7 +6,7 @@
  * Time: 22:51
  */
 
-namespace Svc;
+namespace Svichka;
 
 use Curl;
 
