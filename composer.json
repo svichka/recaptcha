@@ -1,5 +1,5 @@
 {
-    "name": "svichka/csrf",
+    "name": "svichka/recaptcha",
     "description": "This is package for check captcha",
     "type": "library",
     "license": "MIT",
