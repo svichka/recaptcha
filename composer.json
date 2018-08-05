@@ -1,6 +1,6 @@
 {
     "name": "svichka/csrf",
-    "description": "This is package for generate and validate csrf token for forms",
+    "description": "This is package for check captcha",
     "type": "library",
     "license": "MIT",
     "authors": [
