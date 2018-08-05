@@ -1,0 +1,15 @@
+{
+    "name": "svichka/csrf",
+    "description": "This is package for generate and validate csrf token for forms",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dasha A",
+            "email": "daria.iva@gmail.com"
+        }
+    ],
+    "require": {
+        "curl/curl": "^1.9"
+    }
+}
